@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Prueba_AAD
+    services:
+    maria-db:
+    image: maria:
+
+# -yml formato de configuracion, en lu
